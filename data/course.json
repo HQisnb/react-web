@@ -1,0 +1,201 @@
+{
+    "course":[
+        {
+            "subject":"CS",
+            "number":"115",
+            "content":"Introduction to Computer Science 1",
+            "id":1
+        },
+
+        {
+            "subject":"CS",
+            "number":"136",
+            "content":"Elementary Algorithm Design and Data Abstraction",
+            "id":2
+        },
+
+        {
+            "subject":"CS",
+            "number":"240",
+            "content":"Data Structures and Data Management",
+            "id":3
+        },
+        
+        {
+            "subject":"CS",
+            "number":"241",
+            "content":"Foundations of Sequential Programs",
+            "id":4
+        },
+
+        {
+            "subject":"CS",
+            "number":"245",
+            "content":"Logic and Computation",
+            "id":5
+        },
+
+        {
+            "subject":"CS",
+            "number":"246",
+            "content":"Object-Oriented Software Development",
+            "id":6
+        },
+
+        {
+            "subject":"CS",
+            "number":"341",
+            "content":"Algorithms",
+            "id":7
+        },
+
+        {
+            "subject":"CS",
+            "number":"348",
+            "content":"Introduction to Database Management",
+            "id":8
+        },
+
+        {
+            "subject":"CS",
+            "number":"451",
+            "content":"Data-Intensive Distributed Computing",
+            "id":9
+        },
+
+        {
+            "subject":"CS",
+            "number":"480",
+            "content":"Introduction to Machine Learning",
+            "id":10
+        },
+        
+        {
+            "subject":"CS",
+            "number":"486",
+            "content":"Introduction to Artificial Intelligence",
+            "id":11
+        },
+
+        {
+            "subject":"STAT",
+            "number":"230",
+            "content":"Probability",
+            "id":12
+        },
+
+        {
+            "subject":"STAT",
+            "number":"231",
+            "content":"Statistics",
+            "id":13
+        },
+
+        {
+            "subject":"STAT",
+            "number":"330",
+            "content":"Mathematical Statistics",
+            "id":14
+        },
+
+        {
+            "subject":"STAT",
+            "number":"331",
+            "content":"Applied Linear Models",
+            "id":15
+        },
+
+        {
+            "subject":"STAT",
+            "number":"332",
+            "content":"Sampling and Experimental Design",
+            "id":16
+        },
+
+        {
+            "subject":"STAT",
+            "number":"333",
+            "content":"Applied Probability",
+            "id":17
+        },
+
+        {
+            "subject":"STAT",
+            "number":"341",
+            "content":"Computational Statistics and Data Analysis",
+            "id":18
+        },
+
+        {
+            "subject":"STAT",
+            "number":"441",
+            "content":"Statistical Learning - Classification",
+            "id":19
+        },
+
+        {
+            "subject":"STAT",
+            "number":"431",
+            "content":"Generalized Linear Models and their Applications",
+            "id":20
+        },
+
+        {
+            "subject":"MATH",
+            "number":"135",
+            "content":"Algebra for Honours Mathematics",
+            "id":21
+        },
+
+        {
+            "subject":"MATH",
+            "number":"136",
+            "content":"Linear Algebra 1 for Honours Mathematics",
+            "id":22
+        },
+
+        {
+            "subject":"MATH",
+            "number":"137",
+            "content":"Calculus 1 for Honours Mathematics",
+            "id":23
+        },
+
+        {
+            "subject":"MATH",
+            "number":"138",
+            "content":"Calculus 2 for Honours Mathematics",
+            "id":24
+        },
+
+        {
+            "subject":"MATH",
+            "number":"235",
+            "content":"Linear Algebra 2 for Honours Mathematics",
+            "id":25
+        },
+
+        {
+            "subject":"MATH",
+            "number":"237",
+            "content":"Calculus 3 for Honours Mathematics",
+            "id":26
+        },
+
+        {
+            "subject":"MATH",
+            "number":"239",
+            "content":"Introduction to Combinatorics",
+            "id":27
+        },
+
+        {
+            "subject":"ACTSC",
+            "number":"231",
+            "content":"Introductory Financial Mathematics",
+            "id":28
+        }
+
+        
+    ]
+}
